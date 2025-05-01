@@ -1,0 +1,17 @@
+مونيتر يرصد لك لما الحساب ينفك لو كان لاقم او لما يطير لو كان اكتيف
+سورس غير شامل لتحديثات الاتصالات وشامل للتحديثات الخدميه ب $10
+المميزات
+يقبل لسته او مفرد
+تحتاج فقط ارديبي
+ما تحتاج بروكسي
+يرسل المسج تيليجرام و ديسكورد
+
+
+Monitor that notifies you when an account becomes unabn if it’s ban, or when it gets ban  if it’s active.
+A non-comprehensive source for source updates, but comprehensive for service-related updates — for $10.
+
+Features:
+	•	Accepts list or single account
+	•	Only requires an RDP (Remote Desktop Protocol)
+	•	No proxy needed
+	•	Sends notifications via Telegram and Discord
