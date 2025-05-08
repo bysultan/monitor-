@@ -6,6 +6,33 @@
 ما تحتاج بروكسي
 يرسل المسج تيليجرام و ديسكورد
 
+طريقه التشغيل
+
+اول شي تنسخ الرابط الي بعطيك اياه بعد ما تشتري السورس مني
+الرابط لميديا فاير انسخه والصقه بقوقل في الارديبي حقك وحمل الملف
+
+بعدها فك ضغط الملف 
+وبتحصل اكثر من ملف داخله
+
+السورس بلغه البايثون بتحصله في ملف
+tool.py
+
+الاداه الي مفروض تشغلها 
+tool.exe
+
+(users.txt) ملف
+تحط فيه لستت اليوزرات الي تريد المونيتر يشتغل عليها سواءا مبنده او شغاله  
+
+ (settings.json) ملف
+ تفتحه وتحط فيه توكن التيلي وايدي التيلي و الويب هوك ويوزرك انستا او اسمك عشان يجي المسج باسمك ويمديك تغير اسم المونيتر بعد من هناك
+كل التغييرات تكون داخل ال "" انتبه تسوي شي خارج ولا م بيشتغل المونيتر
+
+ (changes)ملف 
+يحفظ لك اي تغيير صار في اليوزرات
+سواءا من مبند لاكتيف
+او من اكتيف لمبند
+
+
 
 Monitor that notifies you when an account becomes unabn if it’s ban, or when it gets ban  if it’s active.
 A non-comprehensive source for source updates, but comprehensive for service-related updates — for $10.
@@ -15,3 +42,37 @@ Features:
 	•	Only requires an RDP (Remote Desktop Protocol)
 	•	No proxy needed
 	•	Sends notifications via Telegram and Discord
+
+
+
+⸻
+How to use it
+
+First, copy the link I’ll give you after you purchase the source.
+
+The link is to MediaFire — copy and paste it into your RDP’s browser and download the file.
+
+After that, extract the file.
+
+You’ll find several files inside.
+
+The source code is in Python, located in the file:
+tool.py
+
+The executable tool you should run is:
+tool.exe
+
+The file users.txt
+Put the list of usernames you want the monitor to track in this file — whether they’re banned or active.
+
+The file settings.json
+Open this and enter your Telegram token, Telegram ID, webhook, and your Instagram username or name so the messages come with your name. You can also change the monitor name from there.
+Make sure all changes are inside the double quotes "" — don’t modify anything outside or the monitor won’t work.
+
+The file changes
+This saves any changes that occur to the usernames,
+whether from banned to active,
+or from active to banned.
+
+⸻
+
